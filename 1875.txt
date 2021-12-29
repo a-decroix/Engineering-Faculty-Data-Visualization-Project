@@ -1,0 +1,7 @@
+First_Name
+JOHN MORRIS, M. A., C. E., University Avenue, Professor of Mechanical Engineering and Machine Construction.
+WILLIAM ANTHONY, PH. B., Dryden Road, Professor of Physics and Experimental Mechanics.
+JOHN SWEET, 120 Cascadilla, Master Mechanic and Director of the Machine Shop.
+ESTÉVAN FUERTES, PH. B., C. E., 57 Cascadilla, Professor of Civil Engineering.
+EDWIN CLEAVES, Heustis St, Assistant Professor of Free-Hand Drawing and of Mechanical Draughting.
+CHARLES LEE CRANDALL, B. C. E., Instructor in Engineering.

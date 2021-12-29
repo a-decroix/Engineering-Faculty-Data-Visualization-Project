@@ -1,0 +1,121 @@
+First_Name
+EUGENE Elwin HASKELL, B.C.E., C.E., Director of the College of Civil Engineering and Professor of Experimental Hydraulics
+IRVING PORTER CHURCH, B.C.E., C.E., Professor of Applied Mechanics and Hydraulics, B.C.E., C.E., Cornell, 1873, M.C.E., 1878, Associate Member American Society Civil Engineers
+CHARLES LEE CRANDALL, B.C.E., C.E., Professor of Railway Engineering and Geodesy, B.C.E., C.E., Cornell, 1872, M.C.E., 1876, A.M.A.S.C.E.
+HENRY SYLVESTER JACOBY, C.E., Professor of Bridge Engineering, C.E., Lehigh, 1877
+HENRY NEELY OGDEN, C.E., Professor of Sanitary Engineering, C.E., Cornell, 1889, Associate Member American Society Civil Engineers
+DAVID A. MOLITOR, B.S.C.E., C.E., Professor of Topographic and Geodetic Engineering, B.S.C.E., C.E., Washington
+JOHN THOMAS PARSON, Assistant Professor of Drawing
+FRED ASA BARNES, C.E., M.C.E., Assistant Professor of Railroad Engineering and Surveying, C.E., Cornell, 1897, M.C.E., 1898, A.M.A.S.C.E.
+ERNEST WILLIAM SCHODER, B.S., Assistant Professor of Experimental Hydraulics, B.S., and B.S. in Mining, University of Washington, 1900,  Ph.D., Cornell, 1903, A.M.A.S.C.E.
+MILES ALBION POND, Ph.B., Assistant Professor in Civil Engineering, Ph.B., Yale, 1895
+FRANCIS JOSEPH SEERY, B.S., Assistant Professor of Civil Engineering, B.S., Tufts College, A.A.S.C.E., Associate Member Military Service Institution of United States of America
+DONALD DERICKSON, C.E., Assistant Professor of Civil Engineering, C.E., Dartmouth
+SAUMUAL LATIMER BOOTHROYD, B.S., M.S., Assistant Professor in Topographic and Geodetic Engineering
+ERNEST W. RETTGER, A.B., Ph.D., Assistant Professor of Applied Mechanics
+SIDNEY GONZALES GEORGE, C.E., Assistant Professor of Applied Mechanics
+CHARLES LEOPOLD WALKER, C.E., Assistant Professor of Applied Mechanics, C.E., Cornell, 1904
+KENNETH BERTRAND TURNER, C.E., M.C.E., Assistant Professor of Hydraulics, C.E., Cornell, 1903, M.C.E., Cornell, 1905
+ADELBERT PHILO MILLS, B.S. (C.E.), M.S. (C.E.), Acting Assistant Professor of Civil Engineering
+PERCY HODGE, A.B., B.S., Ph.D., Instructor in Civil Engineering
+WILLIAM EUGENE PIPER, B.S., Instructor in Civil Engineering
+L. V. EDWARDS, C.E., Instructor in Civil Engineering, C.E., North Carolina Agricultural and Mechanical College
+DALTON MOOMAW, B.S., Instructor in Civil Engineering, B.S., Michigan Agricultural College
+LEONARD ALEXANDER LAWRENCE, B.S., Instructor in Civil Engineering
+PAUL HALLADAY UNDERWOOD C.E., Instructor in Civil Engineering, C.E., Cornell, 1907
+JOHN CLARENCE MCCURDY, B.S., Instructor in Civil Engineering, B.S., Grove City College
+SCOTT B. LILLY, C.E., Instructor in Civil Engineering
+WILLIS T. SPIVEY, B.S. in C.E., Instructor in Civil Engineering
+ROLAND PARKER DAVIS, S.B., M.C.E., Instructor in Civil Engineering
+WILLIAM JOHN MCKEE, C.E., Instructor in Civil Engineering
+RALPH MCLANE BOWMAN, C.E., Instructor in Civil Engineering
+FRANK BRETFORD Wetherill, Instructor in Machine Design
+WALTER RODNEY CORNELL, B.Sc., Instructor in Civil Engineering
+EDWARD HOOKER TAYLOR, B.S. in C.E., Instructor in Civil Engineering
+WILLIAM HARLEY MORRIS, C.E., Instructor in Civil Engineering
+CLINTON D. CASS, Mechanician in the College of Civil Engineering
+ALBERT WILLIAM SMITH, B.M.E., M.M.E., Director of Sibley College and Professor of Steam Engineering and Dean of the Faculty, B.M.E., Cornell, 1878, M.M.E., 1886
+ROLLA CLINTON CARPENTER, M.S., C.E., M.M.E., LL.D., Professor of Experimental Engineering, C.E., University of Michigan, 1875, M.S., Michigan Agricultural College, 1877, M.M.E., Cornell, 1888, A.S.M.E., A.I.M.E., A.S.H., and V.E.
+DEXTER SIMPSON KIMBALL, A.B., Professor of Machine Design and Construction, A.B., Stanford, 1896,  A.S.M.E., F E.
+FREDERICK BEDELL, A.B., Ph.D., Professor of Applied Electricity, A.B., Yale, Ph.D., Cornell
+HENRY HUTCHINSON NORRIS, M.E., Professor of Electrical Engineering, M.E., Cornell, 1896, A.I.E.E., A.S.I.R.A.
+GEORGE ROBERT MCDERMOTT, Professor of Structural Design, Acacia, Andersonian Institute, Member Institute of Naval Architects, London, Institute of Naval Architects, New York,  Institute of Naval Architects, Japan, Engineer and Shipbuilders’ Institute, Scotland,  Associate Technical Maritime, Paris
+HERMAN DIEDERICHS, M.E., Professor of Experimental Engineering, M.E., Cornell, 1897
+WILLIAM NICHOLS BARNARD, M.E., Professor of Steam Engineering, M.E., Cornell, 1897
+VLADIMIR KARAPETOFF, C.E., Professor of Experimental Electrical Engineering, C.E., Institute of the Ways of Communication, Saint Petersburg, Russia, 1897
+CLARENCE FLOYD HIRSCHFIELD, B.S., M.M.E., Assistant Professor of Power Engineering, B.S., University of California, 1902, M.M.E., Cornell, 1905, FE.
+HOWARD DRYSDALE HESS, M.E., Assistant Professor of Machine Design, M.E., Lehigh
+GEORGE STANLEY MACOMBER, M.E., Assistant Professor of Electrical Engineering, M.E., Cornell, 1900
+EDGAR HARPER WOOD, M.M.E., Assistant Professor in Machine Design, M.E., Cornell, 1892, M.M.E., 1893
+WILL MILLER SAWDON, B.S. in M.E., M.M.E., Assistant Professor of Mechanical Engineering, B.S. in M.E., Purdue University, 1898, M.M.E., Cornell
+WALTER STEBBINS FORD, M.E., Assistant Professor of Electrical Engineering, M.E., Cornell, 1900
+CALVIN DODGE ALBERT, M.E., Assistant Professor of Machine Design, M.E., Cornell, 1902
+ROBERT LEE SHIPMAN, M.E., Instructor in Experimental Engineering, B.S., Missouri State, 1895, E.E., 1896, M.E., Cornell, 1899, M.M.E., 1904
+JOHN TAVISH WILLIAMS, M.E., Instructor in Machine Design
+GEORGE BURR UPTON, Instructor in Experimental Engineering, M.E., Cornell, 1904, M.M.E., Cornell, 1905
+ALBERT EDWARD WELLS, Superintendent of Shops and Instructor in Machine Construction
+BOYD COE DENNISON, M.E., M.M.E., Instructor in Experimental Electrical Engineering, M.E., Cornell, 1904
+CHARLES HOMER TOWER, S.B., Instructor in Electrical Experimental Engineering, Worcester Polytechnic Institute, 1905
+IRVING COLES PETTIT, M.E., Instructor in Electrical Experimental Engineering, M.E., Cornell, 1903
+WILLIAM EDWARD HOGAN, M.E., Instructor in Machine Design, M.E., Sibley College, 1906
+FRANK ARTHUR BURR, M.E., Instructor in Experimental Engineering, M.E., Brown, 1903
+FRED HUTTON KROGER, M.S., Instructor in Electrical Experimental Engineering, B.S., University of Colorado, 1904, M.S., University of Colorado, 1905
+ANSON MUNSON HOLCOMB, B.S., Instructor in Experimental Engineering
+JOHN F. H. DOUGLAS, B.Sc., Instructor in Experimental Engineering, M.I.T.
+ROBERT PHINNEY LAY, M.E., Instructor in Experimental Engineering
+HENRY LIVINGSTON FREEMAN, M.E., Instructor in Machine Design
+B.S. in Electric Engineering, Georgia School of Technology
+FRANK GIRARD TAPPEN, A.B., M.E., Instructor in Electrical Experimental Engineering
+LESLIE DAVID HAYES, M.E., Instructor in Machine Design, B.S., New Hampshire State
+ENOCH FRANCIS GARNER, M.E., Instructor in Machine Design
+EVAN JOHN MCILRAITH, M.E., Instructor in Machine Design
+CLARENCE WALTER HAM, M.E., B.M.E., Instructor in Machine Design
+VICTOR RAYMOND GAGE, M.E., Instructor in Experimental Engineering
+GEORGE WILLIAM LEWIS, M.E., Instructor in Experimental Engineering
+ROBERTSON MATTHEWS, M.E., Instructor in Power Engineering
+JOHN FLOYD STEVENS, B.A., M.E., Instructor in Machine Design
+ARMIN GEORGE KESSLER, M.E., Instructor in Power Engineering
+ALEXANDER DAWES DUBOIS, B.S., Instructor in Electrical Engineering
+FRANK GIBBS ANDERSPNO, M.E., Instructor in Electrical Engineering
+HERMAN STEPHENSON, M.E., Instructor in Machine Design
+TOM BRUCE HYDE, M.E., Instructor in Experimental Engineering
+CHARLES EVERRETT TORRANCE, M.E., Instructor in Experimental Engineering
+DANIEL ROBERT FRANCIS, E.E., B.A., Instructor in Machine Design
+PRESTON LITTLEPAGE PEACH, M.E., Instructor in Machine Design
+LIONEL GRENELLE NIGHTENGALE, M.E., Instructor in Experimental Engineering
+WILLIAM ROY WIGLEY, M.E., Instructor in Experimental Engineering
+RANDOLPH WOODRUFF WEED, M.E., Instructor in Power Engineering
+ARDEN BENJAMIN HOLCOMB, B.S., Instructor in Electrical Engineering
+HARRY MARK PARMLEY, M.E., Instructor in Power Engineering
+LEROY ALONZO WILSON, M.E., Instructor in Experimental Engineering
+ARTHUR GRAHAM BIERMAN, M.E., Instructor in Experimental Engineering
+SERENO GLASSELL MILLER, M.E., Instructor in Machine Design
+JOHN ALEXANDER ROSS, B.S., Instructor in Machine Design
+HERBERT MCNAIR DOUGLAS, M.E., Instructor in Machine Design
+STEPHEN JAY FULLER, M.E., Instructor in Machine Design
+GUY LEROY CURRENT, B.S. of E.E., Instructor in Experimental Engineering
+WILLIAM FREDERIC HEAD, Assistant in Forge Shop
+JAMES ELIJAH VANDERHOEF, Foreman in Foundry
+RAYMOR EGBERT SEAMON, Assistant in Pattern Shop
+WALTER LISTON HEAD, Foreman of Forge Shop
+EDGAR WARREN GREGORY, Assistant Mechanician
+GEORGE WASHINGTON RACE, Mechanician in the Department of Experimental Engineering
+CLINTON BYRON BURKE, Foreman of Pattern Shop
+FRANK A. LYNHAM, Assistant in Machine Shop
+GEORGE ALFRED CULLIGAN, Mechanician in Experimental Electrical Engineering
+JAMES ALONZO BUSH, Assistant Mechanician in Experimental Engineering
+HOWARD STANLEY BUSH, Assistant in Pattern Shop
+BIRDETTE NEWTON HOWE, Assistant in Machine Shop
+LEROY HOOPER, Assistant in Pattern Shop
+WARD BROWN SMITH, Assistant in Machine Shop
+CHARLES ALBERT BROOKS, Assistant in Forge Shop
+JOHN GEORGE PERSTCH, JR., M.E., Assistant in Electrical Engineering
+FANNY ELMA MIX, Secretary to the Director of Sibley College
+MARGARET ISABELLA COLQUHOUN, Clerk in Experimental and Electrical Engineering
+CHARLES ALFRED CULLIGAN, Mechanician in Sibley College
+KATHERINE JENNIE HANDLEN, Stenographer for Electrical Engineering Department
+DELMONT EARL WESTERVELT, Sibley Stock Clerk
+CHARLES BEDELL, Engineer
+EDGAR WARREN GREGORY, Mechanician in Sibley College
+
+

@@ -1,0 +1,123 @@
+First_Name
+EUGENE ELWIN HASKELL, B.C.E., C.E., Director of the College of Civil Engineering and Professor of Experimental Hydraulics
+FRED ASA BARNES, C.E., M.C.E., Assistant Professor of Railroad Engineering, C.E., Cornell, 1897, M.C.E., 1898, E E.
+IRVING PORTER CHURCH, C.E., M.C.E., Professor of Applied Mechanics and Hydraulics; in Charge of the College Library, C.E., Cornell, 1873,  M.C.E., 1878 
+CHARLES LEE CRANDALL, B.C.E., C.E., M.C.E., Professor of Railroad Engineering, B.C.E., Cornell, 1872, C.E., 1876, M.C.E., 1908 
+SIDNEY GONZALES GEORGE, C.E., Assistant Professor of Applied Mechanics and Secretary of the College Faculty, C.E., Cornell, 1905
+HENRY SYLVESTER JACOBY, C.E., Professor of Bridge Engineering, C.E., Lehigh, 1877
+ORA MINER LELAND, B. S. in C. E., Assistant Professor of Topographic and Geodetic Engineering in Charge of the Department of Surveying, B.S. in C.E., Michigan, 1900
+ADELBERT PHILO MILLS, B.S. in C.E., M.C.E., Assistant Professor of Testing Materials, B.S. in C.E., Michigan, 1906, M.C.E., 1909
+HENRY NEELY OGDEN, C.E., Professor of Sanitary Engineering, C.E., Cornell, 1889
+JOHN THOMAS PARSON, Assistant Professor of Drawing in Charge of the Photographic and Drawing Collections
+MILES ALBION POND, Ph.B., Assistant Professor of Civil Engineering in Charge of Descriptive Geometry, Ph.B., Yale, 1895
+ERNEST WILLIAM RETTGER, A.B., Ph.D., Assistant Professor of Applied Mechanics, A.B., Indiana, 1893, Ph.D., Clark, 1898
+ERNEST WILLIAM SCHODER, B.S., and B.S. in Mining, Ph.D., Assistant Professor of Experimental Hydraulics in Charge of the Hydraulic Laboratory B.S., and B.S. in Mining, Washington, 1900, Ph.D., Cornell, 1903
+FRANCIS JOSEPH SEERY, B.S., Assistant Professor of Civil Engineering, B.S., Tufts, 1905
+KENNETH BERTRAND TURNER, C.E., M.C.E., Assistant Professor of Hydraulics, C.E., Cornell, 1903, M.C.E., 1905
+PAUL HALLADAY UNDERWOOD, C.E., Assistant Professor of Topographic and Geodetic Surveying, C.E., Cornell, 1907
+CHARLES LEOPOLD WALKER, C.E., Assistant Professor of Sanitary Engineering, C.E., Cornell, 1904
+CLARENCE MULFORD BAKER, C.E., Instructor in Civil Engineering, C.E., Cornell, 1908
+WILLIAM EDWARD Beitz, C.E., Instructor in Bridge Engineering, C.E., Cornell, 1912
+JULIUS FREDERICK BRAUNER, C.E., Instructor in Civil Engineering, C.E., Cornell, 1905
+EARLE NELSON BURROWS, C.E., Instructor in Bridge Engineering, C.E., Cornell, 1907
+WALTER LICHTENTHAELER CONWELL, C.E., Instructor in Civil Engineering, C.E., Cornell, 1911
+CARL CRANDALL, C.E., Instructor in Civil Engineering, C.E., Cornell, 1912
+NATHAN WASHINGTON DOUGHERTY, B.S. in C.E., C.E., Instructor in Civil Engineering, B.S. in C.E., Tennessee, 1909, C.E., Cornell, 1913
+FRANK ARTEMAS HITCHCOCK, B.S. in C.E., Instructor in Bridge Engineering, B.S. in C.E., Wisconsin, 1910
+LEONARD ALEXANDER LAWRENCE, B.S., Instructor in Surveying, B.S., Maine, 1904
+JOHN CLARENCE MCCURDY, B.S., C.E., Instructor in Surveying, B.S., Grove City College, 1905, C.E., Cornell, 1912
+RALPH WATERBURY Powell, B.S. in C.E., Instructor in Civil Engineering, B.S. in C.E., Michigan Agricultural College, 1911
+LEONARD CHURCH URQUHART, C.E., Instructor in Bridge Engineering, C.E., Cornell, 1909
+ERNEST CHARLES WHITE, B.S. in C.E., Instructor in Railroad Engineering, B.S. in C.E., Norwich, 1908
+CLINTON DEWIT CASS, Mechanician in the College of Civil Engineering
+LENA K. HAYLETT, College Stenographer
+GERTRUDE VARSH SANFORD, College Librarian
+HELEN L. LYNCH, Secretary to Director
+CALVIN DODGE ALBERT, M.E., Assistant Professor of Machine Design, M.E., Cornell, 1906
+WILLIAM NICHOLS BARNARD, M.E., Professor of Power Engineering and Secretary of the College, M.E., Cornell, 1897
+ROLLA CLINTON CARPENTER, B.S., M.S., C.E., M.M.E., LL.D., Professor of Experimental Engineering in Charge of Engineering Research, B.S., Michigan Agricultural College, 1873, M.S., 1876, LL.D., 1910, C.E., Michigan, 1875, M.M.E., Cornell, 1888
+ROBERT LONG DAUGHERTY, A.B., Assistant Professor of Mechanics of Engineering, A.B., Leland Stanford, 1909
+HERMAN DIEDERICHS, M.E., Professor of Experimental Engineering, M.E., Cornell, 1897
+FRANK OAKES ELLENWOOD, A.B., Assistant Professor of Power Engineering, A.B., Leland Stanford, 1904
+WALTER STEBBINS FORD, M.E., Assistant Professor of Electrical Engineering, M.E., Cornell, 1900
+VICTOR RAYMOND GAGE, M.E., M.M.E., Assistant Professor of Experimental Engineering, M.E., Cornell, 1906, M.M.E., 1911
+SEYMOUR STAUNTON GARRETT, C.E., Assistant Professor of Mechanics of Engineering, C.E., Cornell, 1904
+LESLIE DAVID HAYES, B.S., M.E., Assistant Professor of Machine Design, B.S., New Hampshire, 1897, M.E., Cornell, 1908
+HOWARD DRYSDALE HESS, M.E., Professor of Machine Design, M.E., Lehigh, 1896
+CLARENCE FLOYD HIRSHFELD, B.S., M.M.E., Professor of Power Engineering, B.S., California, 1902, M.M.E., Cornell, 1905
+VLADIMIR KARAPETOFF, C.E., M.M.E., Professor of Experimental Electrical Engineering, in charge of Electrical Department, C.E., Institute of Ways of Communication, Saint Petersburg, Russia, 1897, M.M.E., 1902
+DEXTER SIMPSON KIMBALL, A.B., M.E., Professor of Machine Design and Construction, A.B., Leland Stanford, 1896, M.E., Leland Stanford
+GEORGE ROLLAND MCDERMOTT, M.E., Professor of Structural Design, M.E., Cornell, 1905
+GEORGE STANLEY MACOMBER, M.E., Assistant Professor of Electrical Engineering, M.E., Cornell, 1900
+ROBERTSON MATTHEWS, M.E., Assistant Professor of Power Engineering, M.E., Cornell, 1907
+WILL MILLER SAWDON, B.S. in M.E., M.M.E., Assistant Professor of Experimental Engineering Assigned to Department of Engineering Research, B.S. in M.E., Purdue, 1898, M.M.E., Cornell, 1908
+GEORGE BURR UPTON, M.E., M.M.E., Assistant Professor of Experimental Engineering, M.E., Cornell, 1904, M.M.E., 1905
+ALBERT EDWARD Wells, Superintendent of Shops and Assistant Professor of Machine Design
+JOHN TAVISH WILLIAMS, Assistant Professor of Machine Design
+EDGAR HARPER WOOD, M.E., M.M.E., Professor of Mechanics of Engineering, M.E., Cornell, 1892, M.M.E., 1893
+
+ALFRED WALKER ALLEN, Assistant in Pattern Shop
+WILLIAM CYRUS BALLARD, M.E., Instructor in Electrical Engineering
+CHARLES BEDELL, Engineer
+CHARLES BIGELOW BENNETT, E.E., Instructor in Machine Design, E.E., North Dakota
+CHARLES HAROLD BERRY, M.E., Instructor in Power Engineering, M.E., Cornell, 1912
+ARTHUR GRAHAM BIERMA, M.E., Instructor in Electrical Engineering, M.E., Cornell, 1908
+LOUIS JACQUELIN BRADFORD, B.S., Instructor in Machine Design, B.S., Swarthmore, 1911
+CHARLES ALBERT BROOKS, Assistant in Forge Shop
+CARROL GARDNER BROWN, B.S., Instructor in Electrical Engineering, B.S. in E.E., Texas A. and M., 1906
+HAROLD WARNER BROWN, B.S., Instructor in Electrical Engineering, B.S., Cornell, 1898
+WILLIAM BENJAMIN BUCK, Assistant in Machine Shop
+EARLE SMEAD BURNETT, B.S., Instructor in Experimental Engineering, B.S. in M.E., Wisconsin, 1905
+HOWARD STANLEY BUSH, Assistant in Wood Shop
+WELLES GOODSPEED CATLIN, M.E., Instructor in Electrical Engineering, M.E., Cornell, 1910
+ROBERT FRANKLIN CHAMBERLAIN, M.E., Instructor in Electrical Engineering, M.E., Cornell. 1908
+ROY EDWARDS CLARK, Instructor in Power Engineering
+DALE S. COLE, B.S. in E.E., M.M.E., Instructor in Experimental Engineering, B.S. in E.E., Purdue, 1910, M.M.E., Cornell, 1912
+MARGARET ISABELLE COLQUHOUN, Clerk in Experimental Engineering
+WALTER RODNEY Cornell, B.S., Instructor in Mechanics of Engineering, B.S., Rutgers, 1907
+CHARLES DUDLEY Corwin, M.E., Instructor in Machine Design, M.E., Cornell, 1908
+CHARLES ALFRED CULLIGAN, Mechanician
+RALPH BURNETTE DAY, M.E., Instructor in Mechanics of Engineering, M.E., Cornell, 1906
+WILLIAM JACOB DIEDERICHS, M.E., Instructor in Experimental Engineering, M.E., Cornell, 1912
+ARMOND JACOB JORIS VAN DER DOES DE BYE, M.E., Instructor in Machine Design
+JOHN F. H. DOUGLAS, B.S., Instructor in Electrical Engineering
+PAUL BURNS EATON, M.E., Instructor in Machine Design, M.E., Cornell, 1911
+CLARENCE VINCENT ELLIOTT, M.E., Instructor in Experimental Engineering, M.E., Cornell, 1911
+DANIEL ROBERT FRANCIS, E.E., B.A., Instructor in Mechanics of Engineering, E.E. and B.A., North Dakota, 1909
+HENRY LIVINGSTON FREEMAN, B.S. in E.E., M.E., M.M.E., Instructor in Machine Design, B.S. in E.E., Georgia School of Technology, 1900, M.E., Cornell, 1910, M.M.E., 1912
+ENOCH FRANCIS GARNER, M.E., Instructor in Machine Design, M.E., Maryland Agricultural College, 1903
+WILLIAM ALBERT GIBSON, A.B., Assistant in Machine Design
+ROBERT WILLIAM GRAHAM, E.E., Instructor in Machine Design, E.E., North Dakota, 1913
+EDWARD WARREN GREGORY, Mechanician
+CLARENCE WALTER HAM, M.E., Instructor in Machine Design, M.E., Cornell, 1908
+WALTER LISTON HEAD, Foreman of Forge Shop
+WARREN HOWARD HOOK, Instructor in Experimental Engineering
+LEROY HOOPER, Foreman of Pattern Shop
+BIRDETTE NEWTON HOWE, Assistant in Machine Shop
+THOMAS ORMOND HUSSEY, M.E., Instructor in Machine Design, M.E., Cornell, 1912
+EDWARD TOMPKINS JONES, M.E., Instructor in Power Engineering
+FREE LEE KITCHEN, Assistant in Foundry
+FRED EDGAR KLINCK, M.E., Instructor in Mechanical Laboratory, M.E., Cornell, 1910
+MYRON A. LEE, M.E., M.M.E., Instructor in Machine Design, M.E., Cornell, 1909; M.M.E., 1913
+WILLIAM DANIEL MCLAUGHLIN, Assistant in Machine Shop
+PERCY GEORGE MCVETTY, M.E., Instructor in Experimental Engineering, M.E., Cornell, 1913
+GROVER CLEVELAND MILLS, B.M.E., Instructor in Machine Design, B.M.E., Kentucky State, 1911
+HENRY MARK PARMLEY, M.E., Instructor in Mechanics of Engineering
+CLARENCE ANDREW PEIRCE, A.B., M.E., Instructor in Power Engineering, A.B., Cornell, 1907, M.E., 1909
+JOHN GEORGE PERTSCH, JR., M.E., Instructor in Electrical Engineering, M.E., Cornell, 1909
+GEORGE WASHINGTON RACE, Mechanician
+EDITH N. (Mrs.) ROBINSON, Secretary to the Director
+ROWENA L. SHEPARD, College Librarian
+ALEXANDER CHILSON STEVENS, M.E., Instructor in Electrical Engineering, M.E., Cornell, 1907
+ROBERT LEWIS STEVENSON, B.S. in E.E., Instructor in Electrical Engineering, B.S. in E.E., Purdue, 1910
+FRANK GIRARD TAPPAN, A.B., M.E., A.M., Instructor in Electrical Engineering
+A.B., Washington and Jefferson, 1904; A.M., 1909; M.E., Cornell, 1907
+THOMAS STEVENS TOWLE, Assistant in Machine Design
+CLARENCE EllsWORTH TOWNSEND, M.E., Instructor in Machine Design, M. E., Cornell, 1907
+JAMES EUGENE VANDERHOEF, Foreman of Foundry
+HARRY HILL WATERS, M.E., Instructor in Machine Design, M. E., Cornell, 1913
+WILLIAM ROY WIGLEY, M.E., Instructor in Experimental Engineering, M.E., Cornell, 1907
+LEROY ALONZO WILSON, M.E., Instructor in Research Department, M.E., Cornell, 1909
+STEPHEN REMINGTON WING, B.S., VI.E., Instructor in Experimental Engineering, B.S., Haverford, 1908, M.E., Cornell, 1910
+
+
